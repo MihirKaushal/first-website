@@ -1,5 +1,7 @@
 ---
 title: "About"
 ---
+## About Me
+My name is **Mihir Kaushal** and I am a senior in *Metea Valley High School*. 
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
 
-Mihir Kaushal 
